@@ -1,0 +1,20 @@
+.button-style {
+  /* Estilos personalizados */
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.text-position {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+}
+
+  
